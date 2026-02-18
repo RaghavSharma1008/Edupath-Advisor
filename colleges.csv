@@ -1,0 +1,55 @@
+Name,City,Stream,Facilities
+Govt Polytechnic College,Gurdaspur,Science,Lab|Library|Hostel
+SBS State Technical Campus,Ferozepur,Science,Lab|Library
+GNDU College,Pathankot,Science,Lab|Library|WiFi
+Govt College of Science,Amritsar,Science,Lab|Hostel
+Govt Engineering College,Ludhiana,Science,Lab|Library|Hostel
+Guru Nanak Dev Technical Campus,Jalandhar,Science,Lab|Library
+Govt Polytechnic Ferozepur,Ferozepur,Science,Lab|Library|WiFi
+SBS State Science College,Chandigarh,Science,Lab|Library|Hostel
+Govt College of Biology,Gurdaspur,Science,Lab|Library
+GNDU Science Campus,Amritsar,Science,Lab|WiFi
+Govt Commerce College,Ludhiana,Commerce,Library|WiFi
+Govt College of Business Studies,Gurdaspur,Commerce,Library|WiFi|Hostel
+SBS Commerce Campus,Pathankot,Commerce,Library|WiFi
+Govt College of Accounts,Ferozepur,Commerce,Library
+GNDU Commerce College,Jalandhar,Commerce,Library|WiFi
+Govt College of Economics,Amritsar,Commerce,Library|Hostel
+Guru Nanak Dev Business School,Chandigarh,Commerce,Library|WiFi
+Govt Arts College,Gurdaspur,Arts,Library|Hostel
+SBS College of Arts,Ferozepur,Arts,Library|WiFi
+GNDU College of Humanities,Amritsar,Arts,Library
+Govt College of Design,Ludhiana,Arts,Library|WiFi
+Govt College of Media,Pathankot,Arts,Library|Hostel
+Guru Nanak Dev Arts Campus,Jalandhar,Arts,Library|WiFi
+Govt College of Literature,Chandigarh,Arts,Library
+Govt Technical College,Ludhiana,Science,Lab|Library
+Sardar Beant Singh State University,Gurdaspur,Science,Lab|Library|Hostel
+GNDU Polytechnic,Ferozepur,Science,Lab|WiFi
+Govt College of Physics,Amritsar,Science,Lab|Library
+Govt Engineering Institute,Jalandhar,Science,Lab|Hostel
+Guru Nanak Dev Technical College,Pathankot,Science,Lab|Library|WiFi
+Govt College of Finance,Ludhiana,Commerce,Library|WiFi
+SBS Institute of Commerce,Chandigarh,Commerce,Library|Hostel
+GNDU College of Business,Gurdaspur,Commerce,Library|WiFi
+Govt College of Economics,Ferozepur,Commerce,Library
+Govt Commerce School,Ludhiana,Commerce,Library|WiFi
+Guru Nanak Dev Commerce Campus,Amritsar,Commerce,Library|Hostel
+Govt College of Fine Arts,Chandigarh,Arts,Library|WiFi
+SBS Arts Institute,Gurdaspur,Arts,Library|Hostel
+GNDU College of Design,Jalandhar,Arts,Library
+Govt College of Journalism,Ludhiana,Arts,Library|WiFi
+Govt College of Performing Arts,Pathankot,Arts,Library|Hostel
+Guru Nanak Dev Arts College,Ferozepur,Arts,Library
+Govt Science Campus,Gurdaspur,Science,Lab|Library
+SBS Technical Institute,Ludhiana,Science,Lab|WiFi
+GNDU Science College,Chandigarh,Science,Lab|Hostel
+Govt Polytechnic College 2,Amritsar,Science,Lab|Library|WiFi
+Govt College of Arts and Media,Pathankot,Arts,Library|WiFi|Hostel
+SBS College of Humanities,Jalandhar,Arts,Library
+GNDU College of Commerce,Ferozepur,Commerce,Library|WiFi
+Govt Institute of Business Studies,Chandigarh,Commerce,Library|Hostel
+Govt Arts Campus,Ludhiana,Arts,Library|WiFi
+SBS College of Science,Gurdaspur,Science,Lab|Library|Hostel
+GNDU Technical College,Amritsar,Science,Lab|Library
+Govt College of Commerce Studies,Pathankot,Commerce,Library|WiFi
